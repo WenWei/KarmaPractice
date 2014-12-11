@@ -1,0 +1,26 @@
+{
+  "name": "KarmaPractice",
+  "version": "1.0.0",
+  "description": "unit test",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WenWei/KarmaPractice.git"
+  },
+  "author": "Alger Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WenWei/KarmaPractice/issues"
+  },
+  "homepage": "https://github.com/WenWei/KarmaPractice",
+  "devDependencies": {
+    "jasmine-core": "^2.1.3",
+    "karma": "^0.12.28",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-firefox-launcher": "^0.1.3",
+    "karma-jasmine": "^0.3.2"
+  }
+}
