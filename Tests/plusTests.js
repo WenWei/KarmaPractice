@@ -1,4 +1,4 @@
-describe("plus two number", function() {
+describe("Calculated Decimal Number Addition", function() {
     it("should be defined", function() {
         expect(plus).toBeDefined();
     });
