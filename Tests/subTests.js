@@ -6,8 +6,8 @@ describe("Calculated Decimal Number Subtraction", function() {
         expect(sub(3,1)).toEqual(2);
     });
 
-    it("should be 3 but will failed", function() {
-        expect(sub(3,1)).toEqual(1);
+    it("should be 2 but will failed", function() {
+        expect(sub(3,1)).toEqual(2);
     });
 
 });
